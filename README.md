@@ -28,12 +28,6 @@ SMART self-tests abort on cheap USB bridges, the three different causes of a
 read-only mount and their three different fixes, and how to verify a copy
 without drowning in false mismatches.
 
-## Notes
-
-I also keep a local reference for my own laptop setup — Hyprland keybindings,
-shell plugins, and the specific fixes that survived contact with real hardware.
-Not published yet, but say the word and I'll put it up.
-
 ## Elsewhere
 
 Everything worth reading is on GitHub. Nothing to see here otherwise.
