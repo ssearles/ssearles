@@ -27,7 +27,3 @@ They document the traps that cost most of that troubleshooting session: why
 SMART self-tests abort on cheap USB bridges, the three different causes of a
 read-only mount and their three different fixes, and how to verify a copy
 without drowning in false mismatches.
-
-## Elsewhere
-
-Everything worth reading is on GitHub. Nothing to see here otherwise.
