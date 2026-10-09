@@ -1,6 +1,7 @@
 # Steven Searles
 
-Omarchy OS Arch Linux on a HP-Pav-15-ab243cl laptop with 2 USB-3 ports and 1 USB-2 port.
+Omarchy OS Arch Linux on an HP Pavilion 15 Notebook PC (hostname
+`hp-pavilion-15`) with 2 USB-3 ports and 1 USB-2 port.
 
 
 ## ⚠️ AI-assisted work
