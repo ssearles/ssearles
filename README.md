@@ -1,7 +1,7 @@
 # Steven Searles
 
-Running Omarchy on a Lenovo ThinkPad, keeping desktop config in git, and
-backing up more disks than is strictly reasonable.
+Omarchy OS Arch Linux on a HP-Pav-15-ab243cl laptop with 2 USB-3 ports and 1 USB-2 port.
+
 
 ## ⚠️ AI-assisted work
 
